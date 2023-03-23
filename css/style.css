@@ -1,0 +1,41 @@
+.bold{
+    font-weight: bold;
+}
+
+
+.grey{
+    color: grey;
+}
+
+.yellow{
+    background-color: rgb(255, 217, 0);
+}
+
+.textyellow{
+    color: rgb(255, 217, 0);
+}
+
+
+.green{
+    background-color: rgba(0, 128, 0, 0.856);
+}
+
+.textgreen{
+    color: rgba(0, 128, 0, 0.856);
+}
+
+.aqua{
+    background-color: rgba(0, 255, 255, 0.884);
+}
+
+.textaqua{
+    color: rgba(0, 255, 255, 0.884);
+}
+
+.margintop{
+    margin-top: 20px;
+    }
+
+.marginlr{
+width: 60%;
+}
